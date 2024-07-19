@@ -52,7 +52,7 @@ This DIY Project is about ESP RainMaker Platform. We've discussed..
 
 📜 Source Code, Circuit Diagrams and Documentation : 
 
-🌐 GitHub Repository - 🔗 https://github.com/make2explore/esp32-RainMaker  
+🌐 GitHub Repository - 🔗 https://github.com/make2explore/esp32-RainMaker-SmartHome-Project-RF  
   
 🌐 Hackster Blog - 🔗 https://www.hackster.io/make2explore  
   
